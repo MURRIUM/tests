@@ -1,0 +1,11 @@
+C:\Git\isPalindrom\isPalindrom\obj\Debug\netcoreapp2.0\isPalindrom.csprojResolveAssemblyReference.cache
+C:\Git\isPalindrom\isPalindrom\obj\Debug\netcoreapp2.0\isPalindrom.csproj.CoreCompileInputs.cache
+C:\Git\isPalindrom\isPalindrom\obj\Debug\netcoreapp2.0\isPalindrom.AssemblyInfoInputs.cache
+C:\Git\isPalindrom\isPalindrom\obj\Debug\netcoreapp2.0\isPalindrom.AssemblyInfo.cs
+C:\Git\isPalindrom\isPalindrom\bin\Debug\netcoreapp2.0\isPalindrom.deps.json
+C:\Git\isPalindrom\isPalindrom\bin\Debug\netcoreapp2.0\isPalindrom.runtimeconfig.json
+C:\Git\isPalindrom\isPalindrom\bin\Debug\netcoreapp2.0\isPalindrom.runtimeconfig.dev.json
+C:\Git\isPalindrom\isPalindrom\bin\Debug\netcoreapp2.0\isPalindrom.dll
+C:\Git\isPalindrom\isPalindrom\bin\Debug\netcoreapp2.0\isPalindrom.pdb
+C:\Git\isPalindrom\isPalindrom\obj\Debug\netcoreapp2.0\isPalindrom.dll
+C:\Git\isPalindrom\isPalindrom\obj\Debug\netcoreapp2.0\isPalindrom.pdb
